@@ -1,0 +1,11 @@
+<</Type/Page
+    /MediaBox[ 0 0 612 792]
+    /Contents 4 0 R
+    /Group<<
+        /Type/Group
+        /S/Transparency
+        /CS/DeviceRGB
+    >>
+    /StructParents 0
+>>
+endobj

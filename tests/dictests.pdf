@@ -1,0 +1,48 @@
+%PDF-1.7
+%µµµµ
+1 0 obj
+<</Type /Example
+/Subtype /DictionaryExample
+/Version 0.01
+/IntegerItem 12
+/StringItem (a string)
+/Subdictionary <<
+/Item1 0.4
+/Item2 true
+/LastItem (not !)
+/VeryLastItem (OK)
+>>
+>>
+endobj
+
+2 0 obj
+<< /Type /Example /Value 123 >>
+endobj
+
+3 0 obj
+<< /Name (John Doe) /Age 30 /City (New York) >>
+endobj
+
+4 0 obj
+<< /Array [1 2 3] /Dict << /Inner /Value >> >>
+endobj
+
+5 0 obj
+<< /Boolean true /Indirect 10 0 R >>
+endobj
+
+6 0 obj
+<< /Key1 /Value1 /Key2 /Value2 >>
+endobj
+
+7 0 obj
+<< >>
+endobj
+
+8 0 obj
+<< /Key1 (Value with (nested) parentheses) >>
+endobj
+
+9 0 obj
+<< /Key1 123 /Key2 /Value2 /Key1 456 >>
+endobj

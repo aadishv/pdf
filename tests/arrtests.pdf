@@ -1,0 +1,49 @@
+%PDF-1.7
+%µµµµ
+1 0 obj
+[549 3.14 false (Ralph) /SomeName]
+endobj
+
+2 0 obj
+[/Name1 /ASomewhatLongerName /A;Name_With-Various***Characters?]
+endobj
+
+3 0 obj
+[(one) (two) (three) (four) (five)]
+endobj
+
+4 0 obj
+[/ABC /XYZ false 123 3.14]
+endobj
+
+5 0 obj
+[]
+endobj
+
+6 0 obj
+[1 2 3 4]
+endobj
+
+7 0 obj
+[ 1 2 [ 3 4 ] 5 ]
+endobj
+
+8 0 obj
+[[[]]]
+endobj
+
+9 0 obj
+[ (hello) 123 true /Name]
+endobj
+
+10 0 obj
+[ 1 2 3 ]
+endobj
+
+11 0 obj
+[]
+endobj
+
+12 0 obj
+[ ]
+endobj

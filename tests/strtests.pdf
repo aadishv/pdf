@@ -1,0 +1,54 @@
+%PDF-1.7
+%µµµµ
+1 0 obj
+(This is a string)
+endobj
+
+2 0 obj
+(Strings can contain newlines
+and such.)
+endobj
+
+3 0 obj
+(Strings can contain balanced parentheses ()
+and special characters ( * ! & } ^ %and so on) .)
+endobj
+
+4 0 obj
+(The following is an empty string .)
+endobj
+
+5 0 obj
+()
+endobj
+
+6 0 obj
+(It has zero (0) length.)
+endobj
+
+7 0 obj
+(These \
+two strings \
+are the same.)
+endobj
+
+8 0 obj
+(These two strings are the same.)
+endobj
+
+9 0 obj
+(This string has an end-of-line at the end of it.
+)
+endobj
+
+10 0 obj
+(So does this one.\n)
+endobj
+
+11 0 obj
+(This string contains \245two octal characters\307.)
+endobj
+
+20 0 obj
+<4E6F762073686D6F7A206B6120706F702E>
+endobj
